@@ -1,0 +1,60 @@
+@media(max-width:800px)
+{
+    .Navbar
+    {
+        width:90%
+    }
+    .nav-brand
+    {
+       width:70%
+    }
+    .nav-brand h2
+    {
+        font-size: 1.3em;
+    }
+    .nav-link
+    {
+        width:30%;
+    }
+    .link h3
+    {
+        font-size: small;
+    }
+    .logout
+    {
+         font-size: small;
+    }
+    .homepage
+    {
+        width:85%;
+    }
+    .accordiondetails h2
+    {
+        font-size: 1.5em;
+    }
+    .todoform-btn
+    {
+        width:60%
+    }
+    .authIcon h2
+    {
+        font-size: 1.3em;
+    }
+    .auth-avatar
+    {
+        height:40px;
+        width:40px
+    }
+    .authLink
+    {
+        margin:'10px 0'
+    }
+    .resetcard
+    {
+        font-size: 0.9em;
+    }
+    .otp-card
+    {
+        font-size: 0.9em;
+    }
+}
